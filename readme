@@ -1,2 +1,4 @@
 前端使用vue通过rest API获取后台数据，进行页面渲染
 后盾由django实现api接口
+原始站点地址
+https://www.qcloud.com/community/article/774449
